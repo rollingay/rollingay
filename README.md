@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gary.
+- 👀 I’m interested in Blockchain.
+- 🌱 I’m currently learning C++.
